@@ -1,0 +1,17 @@
+tweet_id,author_id,inbound,created_at,text,response_tweet_id,in_response_to_tweet_id,conversation_id
+119308,Tesco,False,Wed Oct 11 13:33:07 +0000 2017,"@105855 Hi Thomas, if a colleague believes the person buying alcohol looks under 25, they will be challenged for ID to prove they're of age. - Paige",119309,119310.0,4
+119309,105855,True,Wed Oct 11 13:33:43 +0000 2017,@Tesco Maybe hire colleagues who can see?,,119308.0,4
+119310,105855,True,Wed Oct 11 13:31:06 +0000 2017,@Tesco The point is if it's enforced they do it properly or they don't. Plus take some common-sense and think does that person look over 18?,119308,119311.0,4
+119311,Tesco,False,Wed Oct 11 13:28:34 +0000 2017,"@105855 Hi Thomas, this is correct but this helps our store colleagues judge age and protect them from making underage sales. Amanda","119310,119312",119313.0,4
+119313,105855,True,Wed Oct 11 12:29:52 +0000 2017,@Tesco Uk offlicense law is 18. Not 25,119311,119314.0,4
+119314,Tesco,False,Wed Oct 11 12:17:02 +0000 2017,"@105855 Hi Thomas, we operate a Think 25 policy at our stores. I'd be flattered to be ID'd. :-) - Helena",119313,119315.0,4
+119315,105855,True,Wed Oct 11 12:14:41 +0000 2017,Got id's @Tesco for buying one Adnams Broadside. Is being blind part of the job-spec? I am 35 and 99 kilos.,"119316,119314",,4
+119317,Tesco,False,Wed Oct 11 13:42:19 +0000 2017,"@105856 Hi there, could you try deleting your cache and cookies and reinstalling the app if using it? This should fix the issue :) - Dani",119318,119319.0,5
+119318,105856,True,Wed Oct 11 13:43:09 +0000 2017,@Tesco Will I lose all the shopping I've done if I delete the cache/cookies (not using app)?,119320,119317.0,5
+119320,Tesco,False,Wed Oct 11 13:45:00 +0000 2017,"@105856 Hi there, as long as you sign out of your account prior to deleting your cache & cookies, you'll still have a full basket :) Thanks - Mike",119321,119318.0,5
+119321,105856,True,Wed Oct 11 13:48:39 +0000 2017,@Tesco Done all that. Still telling me there are no delivery slots whatsoever.,119322,119320.0,5
+119322,Tesco,False,Wed Oct 11 13:49:29 +0000 2017,"@105856 Can you DM me your full name, address and email? I'd be happy to look into this further for you :) Thanks - Mike",,119321.0,5
+119319,105856,True,Wed Oct 11 13:36:32 +0000 2017,"Hey @Tesco, your website's broken. It's telling me there are no delivery slots for the next 3 weeks, which I find slightly unlikely.",119317,,5
+119332,Tesco,False,Wed Oct 11 13:34:06 +0000 2017,"@105861 Hey Sara, sorry to hear of the issues you are having, can I ask if it's the lay out or just the speed of the website responding? TY - Chris",119333,119334.0,9
+119333,105861,True,Wed Oct 11 14:05:18 +0000 2017,@Tesco bit of both - finding the layout cumbersome and when removing an item from faves - getting a huge slowdown. Not keen on the thin green line https://t.co/9281OKEebk,"119335,119336",119332.0,9
+119335,Tesco,False,Wed Oct 11 15:38:07 +0000 2017,"@105861 If that doesn't help please DM your full name, address and email including the browser and device so we can log this. Thanks - Lee 2/2",,119333.0,9
